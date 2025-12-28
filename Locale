@@ -1,0 +1,34 @@
+FITUR
+
+- booking kendaraan
+	- motor (chat, track realtime, data driver)
+	- bis (milih bangku) (track realtime, data driver)
+	- angkot (milih bangku) (track realtime, data driver)
+- estimasi Harga
+- track kepadatan lalu lintas
+- estimasi Waktu
+
+
+DATABASE
+
+Driver 
+ - nama
+ - umur
+ - profilePic
+ - gender
+ - jenisKendaraan
+ - plat nomer
+ - idDriver
+ - email
+ - noTel
+ - password
+
+Kendaraan
+
+KepadatanLalulintas
+
+Path
+
+Route
+
+Chat

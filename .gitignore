@@ -1,0 +1,14 @@
+# NWJS / runtimes
+nwjs/
+nwjs-win/
+nwjs-mac/
+RepoUpdater/
+
+# Binaries
+*.dll
+*.exe
+*.framework
+
+# Builds / exports
+/dist
+/build
